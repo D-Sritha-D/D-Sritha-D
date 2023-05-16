@@ -1,3 +1,5 @@
+![logo](https://github.com/D-Sritha-D/D-Sritha-D/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
+
 <h1 align="center">Hello Everyone! I'm Durga Sritha</h1>
 <p style = "font-family:monospace" align = "center"> Allow me to introduce myself as an aspiring computer science student with a passion for exploring the vast realm of open source. My journey in this field has led me to develop a strong proficiency in data analysis and its associated frameworks. I find immense joy in delving into the intricacies of machine learning and the underlying mathematical principles that drive its innovation. With an unwavering enthusiasm for learning, I embrace every opportunity to expand my knowledge and skills. My dedication and eagerness make me an enthusiastic learner, always seeking to discover new horizons within the ever-evolving world of technology. </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-sritha-d&label=Profile%20views&color=0e75b6&style=flat" alt="d-sritha-d" /> </p>
